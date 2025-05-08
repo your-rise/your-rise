@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Get More Tattoo Clients</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Arial', sans-serif;
+      background-color: #111;
+      color: #fff;
+      text-align: center;
+      padding: 40px 20px;
+    }
+    h1 {
+      font-size: 2.5em;
+      margin-bottom: 10px;
+    }
+    p {
+      font-size: 1.2em;
+      margin-bottom: 30px;
+      max-width: 600px;
+      margin-left: auto;
+      margin-right: auto;
+    }
+    .btn {
+      background-color: #25D366;
+      color: white;
+      padding: 15px 25px;
+      border: none;
+      border-radius: 30px;
+      font-size: 1.1em;
+      cursor: pointer;
+      text-decoration: none;
+      transition: background 0.3s;
+      display: inline-block;
+      margin-top: 20px;
+    }
+    .btn:hover {
+      background-color: #1eb449;
+    }
+    .features {
+      margin-top: 50px;
+    }
+    .features h2 {
+      font-size: 2em;
+      margin-bottom: 20px;
+    }
+    .feature-grid {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 30px;
+      margin-top: 20px;
+    }
+    .feature {
+      background: #1c1c1c;
+      border-radius: 15px;
+      padding: 25px;
+      width: 250px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    }
+    .feature img {
+      width: 50px;
+      height: 50px;
+      margin-bottom: 15px;
+    }
+    .feature h3 {
+      font-size: 1.2em;
+      margin-bottom: 10px;
+      color: #25D366;
+    }
+    .footer {
+      margin-top: 60px;
+      font-size: 0.9em;
+      color: #aaa;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Want More Walk-In Tattoo Clients?</h1>
+  <p>I help tattoo studios like yours grow local visibility on Google Maps so more clients walk through your door.</p>
+
+  <a class="btn" href="https://wa.me/918247402864" target="_blank">
+    📲 Request Free Visibility Check on WhatsApp
+  </a>
+
+  <div class="features">
+    <h2>What You’ll Get</h2>
+    <div class="feature-grid">
+      <div class="feature">
+        <img src="https://img.icons8.com/ios-filled/50/25D366/google-maps.png" alt="Map Audit"/>
+        <h3>Google Maps Audit</h3>
+        <p>See how your studio ranks and where it can improve.</p>
+      </div>
+      <div class="feature">
+        <img src="https://img.icons8.com/ios-filled/50/25D366/positive-dynamic.png" alt="Growth"/>
+        <h3>Walk-In Boost Tips</h3>
+        <p>Get tips that drive more foot traffic without ads.</p>
+      </div>
+      <div class="feature">
+        <img src="https://img.icons8.com/ios-filled/50/25D366/star--v1.png" alt="Reviews"/>
+        <h3>Review Strategy</h3>
+        <p>Get real reviews to build trust and visibility fast.</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="footer">
+    © 2025 Your Rise. All rights reserved.
+  </div>
+
+</body>
+</html>
